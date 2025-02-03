@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m **.net web developer**
+- 🌱 I’m a **.net web developer**
 
 - 👨‍💻 All of my projects are available [here](here)
 
