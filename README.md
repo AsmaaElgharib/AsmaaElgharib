@@ -26,7 +26,7 @@ Experienced in building enterprise applications and solving complex business cha
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge)
-![.NET 8](https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge)
+![.NET 10](https://img.shields.io/badge/.NET_10-512BD4?style=for-the-badge)
 ![Web API](https://img.shields.io/badge/Web_API-blue?style=for-the-badge)
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-darkgreen?style=for-the-badge)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-red?style=for-the-badge)
