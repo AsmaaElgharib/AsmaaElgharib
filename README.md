@@ -1,17 +1,93 @@
-<h1 align="center">Hi 👋, I'm Asmaa Samir</h1>
-<h3 align="center">SR. Software Developer</h3>
+# Hi, I'm Asmaa Samir 👋
 
+## Senior .NET Developer | 4+ Years Experience
 
+Passionate .NET Developer specialized in building scalable web applications, REST APIs, Microservices and enterprise solutions using modern technologies.
 
-- 🌱 I’m a **.net web developer**
+---
 
-- 👨‍💻 All of my projects are available [here](here)
+## 👩‍💻 About Me
 
-- 💬 Ask me about **ASP.Net**
+.NET Developer with 4+ years of experience in designing and developing scalable applications using:
 
-- 📫 How to reach me **asmaa.samir.elgharib@gmail.com**
+- ASP.NET Core
+- C#
+- SQL Server
+- Cloud Technologies
+- Clean Architecture
+- DDD
+- Microservices
 
+Experienced in building enterprise applications and solving complex business challenges.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
+## 🚀 Technical Skills
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge)
+![.NET 8](https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge)
+![Web API](https://img.shields.io/badge/Web_API-blue?style=for-the-badge)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-darkgreen?style=for-the-badge)
+![SQL Server](https://img.shields.io/badge/SQL_Server-red?style=for-the-badge)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices-black?style=for-the-badge)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-gray?style=for-the-badge)
+
+---
+
+## 📌 Featured Projects
+
+### Bags E-Commerce Platform
+
+E-commerce platform with scalable backend architecture.
+
+**Tech Stack**
+- ASP.NET Core
+- SQL Server
+- Clean Architecture
+
+🔗 Live Demo:  
+https://bags-eg-hkf8f6hkaqg8ckbu.uaenorth-01.azurewebsites.net/
+
+---
+
+### Restaurant Management System
+
+Full system with:
+
+- Authentication
+- Ordering
+- Admin Dashboard
+- Payments
+
+Built with ASP.NET Core and SQL Server.
+
+---
+
+### Microservices Platform
+
+Distributed architecture using:
+
+- RabbitMQ
+- Docker
+- API Gateway
+
+---
+
+## 📫 Contact Me
+
+📧 Email: asmaa.samir.elgharib@gmail.com
+
+💼 LinkedIn:  
+https://linkedin.com/in/asmaa-samir-54794b231
+
+💻 GitHub:  
+https://github.com/AsmaaElgharib
+
+---
+
+⭐ Feel free to connect or collaborate.
